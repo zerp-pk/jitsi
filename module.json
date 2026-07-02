@@ -1,0 +1,10 @@
+{
+    "name": "Jitsi",
+    "alias": "Jitsi Meet",
+    "description": "Schedule and manage Jitsi Meet video conferences, no account or API key required by default.",
+    "priority": 900,
+    "version": 5.0,
+    "monthly_price": 0,
+    "yearly_price": 0,
+    "package_name": "jitsi"
+}
