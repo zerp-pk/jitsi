@@ -34,7 +34,7 @@ class MarketplaceSettingSeeder extends Seeder
                     'hero' => [
                         'variant' => 'hero1',
                         'title' => 'Jitsi Meet Module for Zerp',
-                        'subtitle' => 'Create and manage professional video conferences with Jitsi Meet — no account or API key required by default.',
+                        'subtitle' => 'Create and manage professional video conferences with Jitsi Meet - no account or API key required by default.',
                         'primary_button_text' => 'Install Jitsi Meet Module',
                         'primary_button_link' => '#install',
                         'secondary_button_text' => 'Learn More',

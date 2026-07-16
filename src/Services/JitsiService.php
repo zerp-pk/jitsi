@@ -9,8 +9,8 @@ class JitsiService
 {
     /**
      * Generate a Jitsi meeting: a room name, the meeting URL (public meet.jit.si
-     * by default, or a configured self-hosted/JaaS domain), and — if JaaS
-     * credentials are configured — a signed JWT appended to the URL.
+     * by default, or a configured self-hosted/JaaS domain), and - if JaaS
+     * credentials are configured - a signed JWT appended to the URL.
      */
     public function createMeeting(array $data): array
     {

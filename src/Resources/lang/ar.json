@@ -5,7 +5,7 @@
     "4. Paste the credentials above and enable the integration": "4. لصق بيانات الاعتماد أعلاه وتمكين التكامل",
     "Account ID": "رقم حساب",
     "Actions": "الإجراءات",
-    "Allow meetings to be created via Jitsi Meet — no account or API key required by default": "Allow meetings to be created via Jitsi Meet — no account or API key required by default",
+    "Allow meetings to be created via Jitsi Meet - no account or API key required by default": "Allow meetings to be created via Jitsi Meet - no account or API key required by default",
     "Apply": "تطبيق",
     "Are you sure you want to delete this jitsimeeting?": "هل أنت متأكد من أنك تريد حذف هذا الاجتماع؟",
     "Cancel": "إلغاء",
@@ -85,5 +85,5 @@
     "Validation failed": "فشل التحقق من الصحة",
     "View": "الرؤية",
     "and create a Server-to-Server OAuth app": "وخلق تطبيق OAuth من خادم إلى خادم",
-    "instance — no setup required.": "instance — no setup required."
+    "instance - no setup required.": "instance - no setup required."
 }

@@ -5,7 +5,7 @@
     "4. Paste the credentials above and enable the integration": "4. 上の認証情報をペーストして,統合を有効にします.",
     "Account ID": "アカウント ID",
     "Actions": "行動",
-    "Allow meetings to be created via Jitsi Meet — no account or API key required by default": "Allow meetings to be created via Jitsi Meet — no account or API key required by default",
+    "Allow meetings to be created via Jitsi Meet - no account or API key required by default": "Allow meetings to be created via Jitsi Meet - no account or API key required by default",
     "Apply": "適用する",
     "Are you sure you want to delete this jitsimeeting?": "このJitsiミーティングを削除したいですか?",
     "Cancel": "キャンセル",
@@ -85,5 +85,5 @@
     "Validation failed": "検証失敗",
     "View": "ビュー",
     "and create a Server-to-Server OAuth app": "サーバからサーバへのOAuthアプリを作成します.",
-    "instance — no setup required.": "instance — no setup required."
+    "instance - no setup required.": "instance - no setup required."
 }

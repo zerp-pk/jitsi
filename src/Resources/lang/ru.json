@@ -5,7 +5,7 @@
     "4. Paste the credentials above and enable the integration": "4. Вставьте вышеприведенные учетные данные и включите интеграцию",
     "Account ID": "Идентификатор счета",
     "Actions": "Действия",
-    "Allow meetings to be created via Jitsi Meet — no account or API key required by default": "Allow meetings to be created via Jitsi Meet — no account or API key required by default",
+    "Allow meetings to be created via Jitsi Meet - no account or API key required by default": "Allow meetings to be created via Jitsi Meet - no account or API key required by default",
     "Apply": "Применить",
     "Are you sure you want to delete this jitsimeeting?": "Вы уверены, что хотите удалить эту встречу?",
     "Cancel": "Отменить",
@@ -85,5 +85,5 @@
     "Validation failed": "Валидация не удалась",
     "View": "Вид",
     "and create a Server-to-Server OAuth app": "и создать приложение OAuth Server-to-Server",
-    "instance — no setup required.": "instance — no setup required."
+    "instance - no setup required.": "instance - no setup required."
 }

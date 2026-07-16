@@ -5,7 +5,7 @@
     "4. Paste the credentials above and enable the integration": "4. להדביק את פרטי האישור לעיל ולאפשר את האינטגרציה",
     "Account ID": "מזהה חשבון",
     "Actions": "פעולות",
-    "Allow meetings to be created via Jitsi Meet — no account or API key required by default": "Allow meetings to be created via Jitsi Meet — no account or API key required by default",
+    "Allow meetings to be created via Jitsi Meet - no account or API key required by default": "Allow meetings to be created via Jitsi Meet - no account or API key required by default",
     "Apply": "תחיל",
     "Are you sure you want to delete this jitsimeeting?": "האם אתה בטוח שאתה רוצה למחוק את פגישת הזום הזו?",
     "Cancel": "לבטל",
@@ -85,5 +85,5 @@
     "Validation failed": "אימות נכשל",
     "View": "נוף",
     "and create a Server-to-Server OAuth app": "וליצור אפליקציית OAuth שרת-ל-שרת",
-    "instance — no setup required.": "instance — no setup required."
+    "instance - no setup required.": "instance - no setup required."
 }

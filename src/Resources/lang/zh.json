@@ -5,7 +5,7 @@
     "4. Paste the credentials above and enable the integration": "4. 粘贴上述凭证并启用集成",
     "Account ID": "账户标识",
     "Actions": "行动",
-    "Allow meetings to be created via Jitsi Meet — no account or API key required by default": "Allow meetings to be created via Jitsi Meet — no account or API key required by default",
+    "Allow meetings to be created via Jitsi Meet - no account or API key required by default": "Allow meetings to be created via Jitsi Meet - no account or API key required by default",
     "Apply": "应用",
     "Are you sure you want to delete this jitsimeeting?": "您确定要删除这个Jitsi 会议吗?",
     "Cancel": "取消",
@@ -85,5 +85,5 @@
     "Validation failed": "验证失败",
     "View": "视图",
     "and create a Server-to-Server OAuth app": "创建一个服务器对服务器的OAuth应用程序",
-    "instance — no setup required.": "instance — no setup required."
+    "instance - no setup required.": "instance - no setup required."
 }
