@@ -13,13 +13,13 @@ Jitsi Meet module for the [Zerp](https://github.com/zerp-pk) ERP platform. Sched
 composer require zerp/jitsi
 ```
 
-The package auto-registers via Laravel's package discovery — no manual service provider registration needed.
+The package auto-registers via Laravel's package discovery - no manual service provider registration needed.
 
 ## What it provides
 
-- `Zerp\Jitsi\Providers\JitsiServiceProvider` — boots this module's routes, migrations, and settings
+- `Zerp\Jitsi\Providers\JitsiServiceProvider` - boots this module's routes, migrations, and settings
 - Frontend pages/components under `src/Resources/js`
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+MIT - see [LICENSE](LICENSE).

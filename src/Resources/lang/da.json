@@ -5,7 +5,7 @@
     "4. Paste the credentials above and enable the integration": "4. Indsæt oplysningerne ovenfor og aktiver integrationen",
     "Account ID": "Konto-ID",
     "Actions": "Foranstaltninger",
-    "Allow meetings to be created via Jitsi Meet — no account or API key required by default": "Allow meetings to be created via Jitsi Meet — no account or API key required by default",
+    "Allow meetings to be created via Jitsi Meet - no account or API key required by default": "Allow meetings to be created via Jitsi Meet - no account or API key required by default",
     "Apply": "Anvendes",
     "Are you sure you want to delete this jitsimeeting?": "Er du sikker på, at du vil slette dette jitsi-møde?",
     "Cancel": "Aflys",
@@ -85,5 +85,5 @@
     "Validation failed": "Validering mislykkedes",
     "View": "Udsigt",
     "and create a Server-to-Server OAuth app": "og oprette en Server-to-Server OAuth-app",
-    "instance — no setup required.": "instance — no setup required."
+    "instance - no setup required.": "instance - no setup required."
 }

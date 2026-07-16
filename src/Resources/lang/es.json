@@ -5,7 +5,7 @@
     "4. Paste the credentials above and enable the integration": "4. Pegue las credenciales de arriba y habilite la integración",
     "Account ID": "Identificador de la cuenta",
     "Actions": "Acciones",
-    "Allow meetings to be created via Jitsi Meet — no account or API key required by default": "Allow meetings to be created via Jitsi Meet — no account or API key required by default",
+    "Allow meetings to be created via Jitsi Meet - no account or API key required by default": "Allow meetings to be created via Jitsi Meet - no account or API key required by default",
     "Apply": "Aplicar",
     "Are you sure you want to delete this jitsimeeting?": "¿Estás seguro de que quieres eliminar esta reunión de jitsi?",
     "Cancel": "Cancelar",
@@ -85,5 +85,5 @@
     "Validation failed": "No se ha podido validar",
     "View": "Vistas",
     "and create a Server-to-Server OAuth app": "y crear una aplicación de autenticación de servidor a servidor",
-    "instance — no setup required.": "instance — no setup required."
+    "instance - no setup required.": "instance - no setup required."
 }

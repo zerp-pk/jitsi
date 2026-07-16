@@ -88,7 +88,7 @@ export default function JitsiMeetingSettings({ userSettings = {}, auth }: JitsiM
                 {t('Enable Jitsi Meet Integration')}
               </Label>
               <p className="text-sm text-muted-foreground mt-1">
-                {t('Allow meetings to be created via Jitsi Meet — no account or API key required by default')}
+                {t('Allow meetings to be created via Jitsi Meet - no account or API key required by default')}
               </p>
             </div>
             <Switch
@@ -141,7 +141,7 @@ export default function JitsiMeetingSettings({ userSettings = {}, auth }: JitsiM
                 <div className="border rounded-lg p-4 bg-blue-50/50 border-blue-200">
                   <h4 className="font-medium mb-2 text-blue-900">{t('Setup Instructions')}</h4>
                   <div className="space-y-2 text-sm text-blue-800">
-                    <p>{t('Jitsi Meet works out of the box on the free, public')} <a href="https://meet.jit.si" target="_blank" rel="noopener noreferrer" className="text-blue-600 underline hover:text-blue-800">meet.jit.si</a> {t('instance — no setup required.')}</p>
+                    <p>{t('Jitsi Meet works out of the box on the free, public')} <a href="https://meet.jit.si" target="_blank" rel="noopener noreferrer" className="text-blue-600 underline hover:text-blue-800">meet.jit.si</a> {t('instance - no setup required.')}</p>
                     <p>{t('To use your own self-hosted Jitsi server, enter its domain above.')}</p>
                     <p>{t('To use Jitsi as a Service (JaaS) with authenticated rooms, add your App ID and JWT secret from')} <a href="https://jaas.8x8.vc" target="_blank" rel="noopener noreferrer" className="text-blue-600 underline hover:text-blue-800">jaas.8x8.vc</a>.</p>
                   </div>
