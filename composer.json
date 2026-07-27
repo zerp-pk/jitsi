@@ -3,11 +3,24 @@
     "description": "Jitsi Meet integration module for the Zerp ERP platform",
     "type": "library",
     "license": "MIT",
-    "require": {},
+    "require": {
+        "php": "^8.2"
+    },
+    "require-dev": {
+        "orchestra/testbench": "^9.0 || ^10.0"
+    },
     "autoload": {
         "psr-4": {
             "Zerp\\Jitsi\\": "src/"
         }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Zerp\\Jitsi\\Tests\\": "tests/"
+        }
+    },
+    "scripts": {
+        "test": "phpunit"
     },
     "authors": [
         {
